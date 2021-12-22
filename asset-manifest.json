@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Burgers/static/css/main.0474473c.css",
+    "main.js": "/Burgers/static/js/main.22436368.js",
+    "static/media/about.png": "/Burgers/static/media/about.5cfaf8a99d5231051570.png",
+    "static/media/banner.png": "/Burgers/static/media/banner.192d127276189eb9c330.png",
+    "static/media/footer.png": "/Burgers/static/media/footer.53806b7daa8d1ecfff9d.png",
+    "static/media/s1.png": "/Burgers/static/media/s1.8a4fa4559949141455f1.png",
+    "static/media/s2.png": "/Burgers/static/media/s2.b0665d1810c1ae19dfa3.png",
+    "index.html": "/Burgers/index.html",
+    "main.0474473c.css.map": "/Burgers/static/css/main.0474473c.css.map",
+    "main.22436368.js.map": "/Burgers/static/js/main.22436368.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0474473c.css",
+    "static/js/main.22436368.js"
+  ]
+}
